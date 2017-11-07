@@ -10,6 +10,7 @@ import { TabsPage } from '../pages/tabs/tabs';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
+// import { ThfNotificationController } from '@totvs/thf-mobile/app/components/thf-notification/thf-notification.controller';
 
 @NgModule({
   declarations: [
